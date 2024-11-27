@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server of poker game",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/githubbadguy/poker-game-demo.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "someone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubbadguy/poker-game-demo/issues"
+  },
+  "homepage": "https://github.com/githubbadguy/poker-game-demo#readme",
+  "devDependencies": {
+    "vite": "^6.0.1"
+  }
+}
